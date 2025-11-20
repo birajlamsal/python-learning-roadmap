@@ -57,7 +57,7 @@ I'm maintaining detailed progress tracking in Google Sheets with:
 - Completion status
 - Notes and reflections
 
-*View Progress Sheet (Link to be added)*
+*View Progress Sheet https://docs.google.com/spreadsheets/d/1emkEvRPy3NrBvE-P-ZBBYQfFIh5PwGG2rewUmLR6ja8/edit?usp=sharing
 
 ## 📝 Documentation Plan
 
@@ -100,3 +100,4 @@ pip install -r requirements.txt
 ---
 
 *This roadmap is continuously updated as I progress through my Python learning journey.*
+*I am following this https://roadmap.sh/python. *
