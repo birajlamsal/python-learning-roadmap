@@ -20,3 +20,6 @@ for x in range (1 , 11):
         continue
     else:
         print(x)
+        
+        
+        # in this loop the block of code repeats again and agaij until the required conditin is met 
